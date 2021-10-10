@@ -4,11 +4,11 @@
 Hi There
 
 # DataIncubatorchallenge
-This contains all the files for the Data Incubator Challenge.\\
+This contains all the files for the Data Incubator Challenge.\n
 
 The files are the following:
 
--'wordcloud.ipynb' is the Jupyter notebook that created the wordcloud for Section 1.
+-'wordcloud.ipynb' is the Jupyter notebook that created the wordcloud for Section 1.\n
 -'happyplots.ipynb' is the Jupyter notebook that created plots for Section 1.
 -'cleaned_hm.csv', 'demographic.csv', 'original.csv' contain the data for the Project in Section 1.
 -'New_York_Wifi.ipynb' is a Jupyter notebook for Section 2.
